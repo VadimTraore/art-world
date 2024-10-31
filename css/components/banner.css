@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(162, 210, 223, 0.2), rgba(196, 225, 246, 0.3) 45%), url(../../images/painting.jpg);
+	color: #FFFECB;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
